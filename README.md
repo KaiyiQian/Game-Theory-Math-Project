@@ -13,4 +13,46 @@ This repository contains Jupyter notebooks analyzing different game theory model
 - [Dependencies](#dependencies)
 
 ## Notebooks
-**1.RepeatedGames.ipynb**
+**1. RepeatedGames.ipynb**
+This Notebook explores 6 types of repeated games scenarios (Tit-for-Tat, Always Defect, Grim Trigger, Always Cooperate, Generous Tit-for-Tat and Adaptive)
+**2. ChainStore.ipynb**
+
+**3. PD_on_Torus.ipynb**
+
+## Installation
+To run these notebooks, ensure you have Python and Jupyter Notebook installed. You can install the necessary dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or, if a `requirements.txt` file is not provided, install the core dependencies manually:
+
+```bash
+pip install numpy pandas matplotlib scipy jupyter
+```
+
+## Usage
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/yourusername/game-theory-models.git
+cd game-theory-models
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open the desired notebook from the Jupyter interface and run the cells.
+
+## Dependencies
+These notebooks require the following Python libraries:
+- `numpy` (for numerical computations)
+- `pandas` (for data manipulation)
+- `matplotlib` (for visualizations)
+- `scipy` (for game-theoretic analysis)
+- `jupyter` (for running the notebooks)
+
