@@ -1,1 +1,1 @@
-# Game-Theory-Math-Project
+# Game Theory for Mathematicians
