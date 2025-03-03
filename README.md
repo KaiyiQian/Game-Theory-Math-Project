@@ -9,12 +9,12 @@ This repository contains Jupyter notebooks analyzing different game theory model
   - [ChainStore.ipynb](#2-chainstoreipynb)
   - [PD_on_Torus.ipynb](#3-pd_on_torusipynb)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
 
 ## Notebooks
 **1. RepeatedGames.ipynb**
 This Notebook explores 6 types of repeated games scenarios (Tit-for-Tat, Always Defect, Grim Trigger, Always Cooperate, Generous Tit-for-Tat and Adaptive)
+
 **2. ChainStore.ipynb**
 
 **3. PD_on_Torus.ipynb**
