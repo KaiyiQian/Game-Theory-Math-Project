@@ -31,23 +31,6 @@ Or, if a `requirements.txt` file is not provided, install the core dependencies 
 ```bash
 pip install numpy pandas matplotlib scipy jupyter
 ```
-
-## Usage
-Clone the repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/yourusername/game-theory-models.git
-cd game-theory-models
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open the desired notebook from the Jupyter interface and run the cells.
-
 ## Dependencies
 These notebooks require the following Python libraries:
 - `numpy` (for numerical computations)
